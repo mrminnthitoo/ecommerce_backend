@@ -37,6 +37,10 @@ spring:
     ansi:
       enabled: ALWAYS
 
+# image
+image:
+  root-dir: /ecommerce
+
 # api documentation
 springdoc:
   api-docs:
